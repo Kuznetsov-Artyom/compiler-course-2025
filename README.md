@@ -1,4 +1,4 @@
-# Compiler course 2025
+# Compiler course 2025C 
 
 [![Build LLVM](https://github.com/NN-complr-tech/compiler-course-2025/actions/workflows/compiler-course-build.yml/badge.svg)](https://github.com/NN-complr-tech/compiler-course-2025/actions/workflows/compiler-course-build.yml)
 
